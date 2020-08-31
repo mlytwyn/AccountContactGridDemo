@@ -5,7 +5,8 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 
 ## Setup
 
-Before starting the application, please run to install dependencies: npm i
+Before starting the application, please run to install dependencies:
+### `npm i`
 
 ## Available Scripts
 In the project directory, you can run:
