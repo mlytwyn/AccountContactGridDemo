@@ -3,6 +3,10 @@
 This project complements the [KendoReact documentation](https://www.telerik.com/kendo-react-ui/getting-started/). 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+Before starting the application, please run to install dependencies: npm i
+
 ## Available Scripts
 In the project directory, you can run:
 
