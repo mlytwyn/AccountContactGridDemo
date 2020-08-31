@@ -1,0 +1,4 @@
+/* Kendo drops downs had a lower z-index than the form they were displayed in for some reason */
+.k-animation-container {
+    z-index: 100002
+  }

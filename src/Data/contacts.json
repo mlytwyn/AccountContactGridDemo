@@ -1,0 +1,26 @@
+[
+  {
+    "ContactID": 1,
+    "Name": "Samus",
+    "Phone": "232-222-2523",
+    "Email": "saveTheAnimals@superMetroid.com",
+    "LeadSource": { "Description": "Web" },
+    "AccountID": 1
+  },
+  {
+    "ContactID": 2,
+    "Name": "Mario",
+    "Phone": "222-222-2523",
+    "Email": "mario@plumbers.com",
+    "LeadSource": { "Description": "Phone" },
+    "AccountID": 1
+  },
+  {
+    "ContactID": 3,
+    "Name": "Link",
+    "Phone": "222-222-2523",
+    "Email": "lookingForZelda@hyrule.com",
+    "LeadSource": { "Description": "Purchased List" },
+    "AccountID": 3
+  }
+]
